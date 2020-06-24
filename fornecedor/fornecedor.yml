@@ -1,8 +1,0 @@
-spring:
-  jpa:
-    hibernate:
-      ddl-auto: update
-  datasource:
-    url: jdbc:mysql://127.0.0.1:3307/fornecedor?useSSL=false&serverTimezone =UTC&useLegacyDatetimeCode=false"
-    username: root
-    password: root1234
