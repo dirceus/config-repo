@@ -9,3 +9,5 @@ spring:
     multipart:
       max-file-size: 1024KB
       max-request-size: 1024KB
+storage:
+  path: "/home/dirceu/dev/docker_volumes/storage_service"
